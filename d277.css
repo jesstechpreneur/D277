@@ -3,3 +3,6 @@
     height:750px;
     background-position: center;
   }
+  .nav-link .active{
+    font-weight:700px;
+  }
