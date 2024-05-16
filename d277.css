@@ -6,3 +6,7 @@
   .nav-link .active{
     font-weight:700px;
   }
+  table,th,td{
+    border: 2px solid gray;
+    padding:5px;
+  }
